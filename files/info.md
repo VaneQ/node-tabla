@@ -1,0 +1,1 @@
+# Directorio contenedor de archivos txt generados por el multiplicador
